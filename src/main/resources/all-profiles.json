@@ -1,0 +1,236 @@
+[
+	{
+		"av": false,
+		"nachname": "a",
+		"vorname": "a",
+		"vnr": 1048,
+		"mtime": "2018-02-22 17:25:37+00:00",
+		"dse": true,
+		"dfvnr": 19969
+	},
+	{
+		"av": false,
+		"nachname": "b",
+		"vorname": "b",
+		"vnr": 1048,
+		"mtime": "2018-02-22 17:25:37+00:00",
+		"dse": true,
+		"dfvnr": 19970
+	},
+	{
+		"av": false,
+		"nachname": "c",
+		"vorname": "c",
+		"vnr": 1048,
+		"mtime": "2018-02-22 17:25:37+00:00",
+		"dse": true,
+		"dfvnr": 15366
+	},
+	{
+		"av": false,
+		"nachname": "d",
+		"vorname": "d",
+		"vnr": 1048,
+		"mtime": "2018-02-22 17:25:37+00:00",
+		"dse": true,
+		"dfvnr": 15367
+	},
+	{
+		"av": false,
+		"nachname": "e",
+		"vorname": "e",
+		"vnr": 1048,
+		"mtime": "2018-02-22 17:25:37+00:00",
+		"dse": true,
+		"dfvnr": 15368
+	},
+	{
+		"av": false,
+		"nachname": "f",
+		"vorname": "f",
+		"vnr": 1048,
+		"mtime": "2018-02-22 17:25:37+00:00",
+		"dse": true,
+		"dfvnr": 15374
+	},
+	{
+		"av": false,
+		"nachname": "g",
+		"vorname": "g",
+		"vnr": 1048,
+		"mtime": "2018-02-22 17:25:37+00:00",
+		"dse": true,
+		"dfvnr": 15427
+	},
+	{
+		"av": false,
+		"nachname": "h",
+		"vorname": "h",
+		"vnr": 1026,
+		"mtime": "2018-02-22 17:25:37+00:00",
+		"dse": true,
+		"dfvnr": 15428
+	},
+	{
+		"av": false,
+		"nachname": "i",
+		"vorname": "i",
+		"vnr": 1026,
+		"mtime": "2018-02-22 17:25:37+00:00",
+		"dse": true,
+		"dfvnr": 15429
+	},
+	{
+		"av": false,
+		"nachname": "j",
+		"vorname": "j",
+		"vnr": 1026,
+		"mtime": "2018-02-22 17:25:37+00:00",
+		"dse": true,
+		"dfvnr": 15430
+	},
+	{
+		"av": false,
+		"nachname": "k",
+		"vorname": "k",
+		"vnr": 1004,
+		"mtime": "2018-02-01 04:32:35+00:00",
+		"dse": true,
+		"dfvnr": 16641
+	},
+	{
+		"av": false,
+		"nachname": "l",
+		"vorname": "l",
+		"vnr": 1026,
+		"mtime": "2018-02-22 17:25:37+00:00",
+		"dse": true,
+		"dfvnr": 17594
+	},
+	{
+		"av": false,
+		"nachname": "m",
+		"vorname": "m",
+		"vnr": 1026,
+		"mtime": "2018-02-22 17:25:37+00:00",
+		"dse": true,
+		"dfvnr": 13410
+	},
+	{
+		"av": false,
+		"nachname": "n",
+		"vorname": "n",
+		"vnr": 1026,
+		"mtime": "2018-02-22 17:25:37+00:00",
+		"dse": true,
+		"dfvnr": 14965
+	},
+	{
+		"av": false,
+		"nachname": "o",
+		"vorname": "o",
+		"vnr": 1026,
+		"mtime": "2018-02-22 17:25:37+00:00",
+		"dse": true,
+		"dfvnr": 17544
+	},
+	{
+		"av": false,
+		"nachname": "p",
+		"vorname": "p",
+		"vnr": 1004,
+		"mtime": "2018-02-22 17:25:37+00:00",
+		"dse": true,
+		"dfvnr": 13465
+	},
+	{
+		"av": false,
+		"nachname": "q",
+		"vorname": "q",
+		"vnr": 1004,
+		"mtime": "2018-02-22 17:25:37+00:00",
+		"dse": true,
+		"dfvnr": 14501
+	},
+	{
+		"av": false,
+		"nachname": "r",
+		"vorname": "r",
+		"vnr": 1004,
+		"mtime": "2018-02-22 17:25:37+00:00",
+		"dse": true,
+		"dfvnr": 18887
+	},
+	{
+		"av": false,
+		"nachname": "s",
+		"vorname": "s",
+		"vnr": 1004,
+		"mtime": "2018-02-22 17:25:37+00:00",
+		"dse": true,
+		"dfvnr": 15304
+	},
+	{
+		"av": false,
+		"nachname": "t",
+		"vorname": "t",
+		"vnr": 1004,
+		"mtime": "2018-02-22 17:25:37+00:00",
+		"dse": true,
+		"dfvnr": 18618
+	},
+	{
+		"av": false,
+		"nachname": "u",
+		"vorname": "u",
+		"vnr": 1003,
+		"mtime": "2018-02-22 17:25:37+00:00",
+		"dse": true,
+		"dfvnr": 16074
+	},
+	{
+		"av": false,
+		"nachname": "v",
+		"vorname": "v",
+		"vnr": 1003,
+		"mtime": "2018-02-22 17:25:37+00:00",
+		"dse": true,
+		"dfvnr": 11980
+	},
+	{
+		"av": false,
+		"nachname": "w",
+		"vorname": "w",
+		"vnr": 1003,
+		"mtime": "2018-02-22 17:25:37+00:00",
+		"dse": true,
+		"dfvnr": 17106
+	},
+	{
+		"av": false,
+		"nachname": "x",
+		"vorname": "x",
+		"vnr": 1003,
+		"mtime": "2018-02-22 17:25:37+00:00",
+		"dse": true,
+		"dfvnr": 19162
+	},
+	{
+		"av": false,
+		"nachname": "y",
+		"vorname": "y",
+		"vnr": 1003,
+		"mtime": "2018-02-22 17:25:37+00:00",
+		"dse": true,
+		"dfvnr": 19163
+	},
+	{
+		"av": false,
+		"nachname": "z",
+		"vorname": "z",
+		"vnr": 1003,
+		"mtime": "2018-02-22 17:25:37+00:00",
+		"dse": true,
+		"dfvnr": 19164
+	}
+]
